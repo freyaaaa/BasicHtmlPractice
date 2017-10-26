@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+  <h1> The Main Title </h1>
+    <p>This is my <strong>first</strong> paragraph. </p>
+    <a href= 'https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started' Title='HTML Lessons' tartget='_blank'> This is where I learnt stuff </a>
+    <img src='https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg'>
+  </body>
+</html>
